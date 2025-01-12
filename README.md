@@ -11,7 +11,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <!--
 <h3>
@@ -20,6 +19,13 @@
 
 </h3>
 -->
+
+
+> [!Tip]
+>  Download [`All Books`](https://github.com/1hehaq/books/releases/download/v1/allbooks.zip) in a `.zip` file
+
+<br>
+<br>
 
 <div align="left">
   
